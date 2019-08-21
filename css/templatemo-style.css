@@ -228,6 +228,9 @@ h1 { font-size: 54px; }
 
 .tm-border-box { display: inline-block; }
 
+::-moz-selection { background: #fbc70f; color: #fff;}
+::selection { background: #fbc70f; color: #fff;}
+
 .tm-gray-border-br {
     border-right: 15px solid #fbc70f;
     border-bottom: 15px solid #fbc70f;
