@@ -388,6 +388,7 @@ h1 { font-size: 54px; }
         width: 100%;
         display: block;
     }
+    h1 {font-size: inherit;}
 }
 
 @media screen and (max-width: 460px) {
